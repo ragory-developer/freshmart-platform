@@ -1,0 +1,7 @@
+[submodule "freshmart-api"]
+	path = freshmart-api
+	url = https://github.com/ragory-developer/freshmart-api.git
+
+[submodule "freshmart-web"]
+	path = freshmart-web
+	url = https://github.com/ragory-developer/freshmart-web.git
