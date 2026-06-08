@@ -1,0 +1,9 @@
+# Agent and AI Tooling
+.agent/
+.agents/
+.gemini/
+.gsd/
+
+# Transient Agent Documentation & Artifacts
+skill.md
+*-tasks.md
