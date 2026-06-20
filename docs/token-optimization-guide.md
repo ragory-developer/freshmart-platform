@@ -21,13 +21,13 @@
 
 ```
 ┌─────────────────────────────────────┐
-│ 1. Search-First (context-fetch)    │ ← Find before loading
+│ 1. Search-First (context-fetch)     │ ← Find before loading
 ├─────────────────────────────────────┤
-│ 2. Budget Tracking (token-budget)  │ ← Know your limits
+│ 2. Budget Tracking (token-budget)   │ ← Know your limits
 ├─────────────────────────────────────┤
-│ 3. Compression (context-compressor)│ ← Minimize footprint
+│ 3. Compression (context-compressor) │ ← Minimize footprint
 ├─────────────────────────────────────┤
-│ 4. Health Monitoring               │ ← Prevent degradation
+│ 4. Health Monitoring                │ ← Prevent degradation
 └─────────────────────────────────────┘
 ```
 
